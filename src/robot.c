@@ -1,6 +1,6 @@
 /*
-  TenJin Call Center System v3.0 Copyright (C) 2016 By TenJin Inc.
-  By QQ: 2403378726
+  Lemon Call Center System v3.0 Copyright (C) 2016 By Typefo Inc.
+  By typefo typefo@qq.com
 */
 
 #include <stdio.h>
